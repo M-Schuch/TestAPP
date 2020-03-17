@@ -1,0 +1,42 @@
+.menu {
+    background: white;
+    height: 100px;
+    width: 100%;
+    line-height: 100px;
+}
+
+.right {
+  float: right;
+}
+
+.logo {
+  float: left;
+}
+
+.TextLogo {
+  top: 0px;
+  margin: 0px;
+  padding: 0px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  size: 40;
+  }
+
+  .link {
+    text-decoration: none;
+    color: black;
+    margin: 0 10px;
+    padding: 0px;
+  }
+
+  .link:hover {
+
+  }
+
+@ media onlt screen and (max-width: 500px) {
+
+  .right {
+    display: none;
+  }
+
+}
