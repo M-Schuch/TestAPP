@@ -1,0 +1,9 @@
+html, body, div {
+    margin:0px;
+    padding:0px;
+}
+
+.inner {
+  width: 90%;
+  margin: auto;
+}
